@@ -1,1 +1,6 @@
 # cs-fundamentals
+
+## About me
+I did my bachelor's in Electrical and Electronics Engineering from a decent university. It wasn't my first choice; when the timer began, I had only two decent choices: EEE or IT. When I looked at my father, not knowing any better I said IT, he said your bava said EEE is a good choice. So, he asked me to choose it and I did just that. 
+Currently I'm working as a Software Engineer, even though it is unrelated to the course I chose in my college or rather my father/relative chose it for me. This is a very common thing in India. To be honest, I've always had reservations about my knowledge regarding computer systems. For one, I didn't study it, and second, nobody questioned me on it. All they asked me was whether I knew X framework and X programming language and that's all. That's how I've survived till now. 
+I just don't want to survive but thrive in this field, Since I've chosen this field myself. at least now, I will give my all. That's why I'm starting this repo, where I will be committing my learnings from reading multiple CS fundamentals books as well as my system designs. Hopefully, this won't be the kind of thing that I start and leave it hanging. 
